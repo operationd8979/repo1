@@ -48,3 +48,11 @@ Contributions are welcome! To contribute to this project, follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Testing
+
+To test this project, follow these steps:
+
+1. Open the terminal.
+2. Run `npm test` to run the tests.
+3. ...
