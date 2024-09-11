@@ -56,3 +56,5 @@ To test this project, follow these steps:
 1. Open the terminal.
 2. Run `npm test` to run the tests.
 3. ...
+
+## Hot fix
